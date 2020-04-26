@@ -1,5 +1,4 @@
 pyg = 'ay'
-print('yoyo')
 original = raw_input("Enter a word:" )
 word = original[1:]
 first = original[0]
